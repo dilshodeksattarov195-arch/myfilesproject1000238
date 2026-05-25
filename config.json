@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerferify",
+        "uuid": 159936,
+        "checksum": "f9viae"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
